@@ -1,0 +1,11 @@
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.0\NetCoreApi.deps.json
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.0\NetCoreApi.runtimeconfig.json
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.0\NetCoreApi.runtimeconfig.dev.json
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.0\NetCoreApi.dll
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\bin\Debug\netcoreapp2.0\NetCoreApi.pdb
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.csprojResolveAssemblyReference.cache
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.AssemblyInfoInputs.cache
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.AssemblyInfo.cs
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.dll
+C:\Users\supra\OneDrive\Рабочий стол\NetCoreApi\NetCoreApi\obj\Debug\netcoreapp2.0\NetCoreApi.pdb
